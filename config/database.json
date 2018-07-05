@@ -1,0 +1,11 @@
+{
+  "host": "127.0.0.1",
+  "port": 27017,
+  "database": "github_star",
+  "user": "",
+  "pass": "",
+  "authenticationDatabase": "",
+  "ssl": false,
+  "debug": true,
+  "useNewUrlParser": true
+}

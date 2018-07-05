@@ -1,0 +1,13 @@
+# history files
+.history
+
+# dependencies
+node_modules
+
+# dependencies lock files
+yarn.lock
+package-lock.json
+
+# editor or ide config files
+.vscode
+.idea

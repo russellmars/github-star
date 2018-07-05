@@ -1,0 +1,8 @@
+{
+  "host": "localhost",
+  "port": 2303,
+  "cron": {
+    "enabled": false
+  },
+  "apiRoot": "/api/v1"
+}
